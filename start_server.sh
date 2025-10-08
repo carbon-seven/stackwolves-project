@@ -1,2 +1,2 @@
-cd ./src/
+cd ./apps/evaluator/src/
 flask run
